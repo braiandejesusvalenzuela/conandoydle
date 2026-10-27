@@ -53,4 +53,4 @@ En algunos sistemas el comando puede ser `python3 main.py`.
 
 ## Sobre el proyecto
 
-Proyecto grupal realizado como parte de la Tecnicatura Superior en Análisis de Sistemas.
+💻 Proyecto Final Grupal — Técnicas de Programación | Tecnicatura Superior en Análisis de Sistemas.
